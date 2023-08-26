@@ -30,6 +30,11 @@
   cursor: pointer;
 }
 
+.card.revealed {
+  cursor: default;
+  pointer-events: disabled;
+}
+
 .card:hover {
   background: #7a78fa;
 }
