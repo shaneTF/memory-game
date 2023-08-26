@@ -1,0 +1,35 @@
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.grid {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.row {
+  display: flex;
+  gap: 10px;
+}
+
+.card {
+  padding: 20px;
+  background: white;
+  gap: 10px;
+}
+
+#root {
+  margin: 0;
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  place-items: center;
+  justify-content: center;
+}
